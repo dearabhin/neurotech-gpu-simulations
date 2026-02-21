@@ -1,0 +1,19 @@
+# === Virtual Environments ===
+ai_dev/
+venv/
+env/
+.venv/
+
+# === Python Cache Files ===
+__pycache__/
+*.pyc
+*.pyo
+
+# === AI & Data Science ===
+.ipynb_checkpoints/
+*.pth
+*.pt
+
+# === OS Generated Files ===
+.DS_Store
+Thumbs.db
